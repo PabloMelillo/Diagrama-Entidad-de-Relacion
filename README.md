@@ -1,7 +1,7 @@
 # Armardo de Diagrama de Relacion
 
 
-Una empresa de tecnología decide utilizar SQL para generar una
+1-Una empresa de tecnología decide utilizar SQL para generar una
 base de datos en la que va a almacenar información sobre sus
 clientes, los artículos que comercializa y las ventas que realiza.
 Para ello, se generará el diagrama y las tablas en las cuales se
@@ -19,3 +19,10 @@ operadores lógicos.
 5. Generar funciones sobre los datos contenidos en las
 tablas y consultas para actualizar y eliminar distintos
 registros de las tablas.
+
+
+
+2 Se agrega ejercicio recompilatorio. Consiste en
+crear cinco tablas con los siguientes
+nombres: Cliente, Localidad, Provincia,
+Movimiento e Ítem.
