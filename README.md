@@ -26,3 +26,17 @@ registros de las tablas.
 crear cinco tablas con los siguientes
 nombres: Cliente, Localidad, Provincia,
 Movimiento e Ítem.
+Tener en cuenta lo siguiente:
+● El atributo localidad de Cliente se relaciona
+con la entidad Localidad.
+● El atributo provincia de Localidad se
+relaciona con la entidad Provincia.
+● El atributo cliente de Movimiento se
+relaciona con la entidad Cliente.
+● El atributo movimiento de Ítem se relaciona
+con la entidad Movimiento.
+2. Con la información brindada se deberán
+que crear las relaciones indicando la
+cardinalidad.
+3. Por consiguiente, será importante analizar
+el código SQL generado.
